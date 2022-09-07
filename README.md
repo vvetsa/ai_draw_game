@@ -1,3 +1,21 @@
+I started working on this project to be able to learn React as well as experiment with image classification ML models. 
+The end goal is to have something similar to the game found at: https://quickdraw.withgoogle.com
+
+The current version of the project you are looking at obviously looks nothing like the goal! 
+Right now, it is in its beginning steps as I begin to experiment and build the front end using React. 
+Currently, you are to draw anything on the top canvas and once you click save, 
+your drawing, as it is represented in data, is logged to the console and your drawing appears on the 2nd canvas.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
